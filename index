@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sabrina Latz — Social Media & Digital Content Strategist</title>
+  <meta name="description" content="Sabrina Latz — Social Media & Digital Content Strategist. Internet-native creative + strategy built for measurable growth." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Editorial + clean sans -->
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body id="top">
+  <div class="bg-paper" aria-hidden="true"></div>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="logo" href="#top" aria-label="Go to top">
+      <span class="logo-mark">SL</span>
+      <span class="logo-text">Sabrina Latz</span>
+    </a>
+
+    <nav class="nav">
+      <a href="#work">Work</a>
+      <a href="#results">Results</a>
+      <a href="#about">About</a>
+      <a class="pill" href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-wrap">
+        <div class="hero-left">
+          <p class="scribble reveal" data-reveal>
+            Hi. Since you’re new here, <span class="soft">let me be your guide.</span>
+          </p>
+
+          <h1 class="hero-title reveal" data-reveal data-delay="60">
+            <span class="stack">Social Media</span>
+            <span class="stack">& Digital Content</span>
+            <span class="stack">Strategist</span>
+          </h1>
+
+          <p class="hero-sub reveal" data-reveal data-delay="110">
+            I build internet-native creative with a strategy spine — content that feels like culture and performs like a campaign.
+          </p>
+
+          <div class="hero-cta reveal" data-reveal data-delay="160">
+            <a class="btn" href="#work">See featured work</a>
+            <a class="btn ghost" href="#contact">Get in touch</a>
+          </div>
+
+          <div class="tag-row reveal" data-reveal data-delay="210">
+            <span class="tag">short-form</span>
+            <span class="tag">editing</span>
+            <span class="tag">social strategy</span>
+            <span class="tag">voice + tone</span>
+            <span class="tag">community</span>
+          </div>
+        </div>
+
+        <div class="hero-right">
+          <!-- big collage card -->
+          <div class="polaroid reveal" data-reveal data-tilt style="--rot:-3deg">
+            <div class="polaroid-top">
+              <span class="sticker">recruiter-ready</span>
+              <span class="sticker alt">hybrid</span>
+            </div>
+
+            <div class="polaroid-img">
+              <img src="./assets/headshot.png" alt="Sabrina Latz headshot" />
+            </div>
+
+            <div class="polaroid-cap">
+              <span class="cap-strong">Sabrina Latz</span>
+              <span class="cap-soft">creative + strategy • culture-first • measurable growth</span>
+            </div>
+          </div>
+
+          <!-- floating notes (inspo-y) -->
+          <div class="note reveal" data-reveal data-float style="--x:8%;--y:18%;--rot:6deg">
+            <div class="note-title">What you’ll see here</div>
+            <ul>
+              <li>scrollable video work</li>
+              <li>editorial layout</li>
+              <li>clean recruiter scan</li>
+            </ul>
+          </div>
+
+          <div class="note reveal" data-reveal data-float style="--x:58%;--y:66%;--rot:-5deg">
+            <div class="note-title">My lane</div>
+            <p>Hooks, pacing, taste, and clarity — built for the algorithm <span class="soft">and</span> the brand.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="marquee" aria-hidden="true">
+        <div class="marquee-track">
+          <span>strategy</span><span>creative</span><span>culture</span><span>editing</span><span>growth</span><span>community</span>
+          <span>strategy</span><span>creative</span><span>culture</span><span>editing</span><span>growth</span><span>community</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- WORK -->
+    <section id="work" class="section">
+      <div class="section-head reveal" data-reveal>
+        <h2>Featured work</h2>
+        <p class="muted">Fastest setup: platform embeds. (We can upgrade to clean MP4 players later.)</p>
+      </div>
+
+      <div class="grid">
+        <!-- TikTok 1 -->
+        <article class="card reveal" data-reveal data-delay="40">
+          <div class="card-top">
+            <span class="chip">TikTok</span>
+            <span class="chip alt">video</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="tiktok-embed"
+              cite="https://www.tiktok.com/@sabluvsanime/video/7603515806290316575"
+              data-video-id="7603515806290316575"
+              style="max-width: 605px;min-width: 325px;">
+              <section></section>
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Featured TikTok</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.tiktok.com/@sabluvsanime/video/7603515806290316575">open</a>
+            </div>
+            <p class="muted">Hook + pacing + edit rhythm.</p>
+          </div>
+        </article>
+
+        <!-- TikTok 2 -->
+        <article class="card reveal" data-reveal data-delay="80">
+          <div class="card-top">
+            <span class="chip">TikTok</span>
+            <span class="chip alt">video</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="tiktok-embed"
+              cite="https://www.tiktok.com/@sabluvsanime/video/7602826731770105102"
+              data-video-id="7602826731770105102"
+              style="max-width: 605px;min-width: 325px;">
+              <section></section>
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Featured TikTok</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.tiktok.com/@sabluvsanime/video/7602826731770105102">open</a>
+            </div>
+            <p class="muted">Platform-native structure.</p>
+          </div>
+        </article>
+
+        <!-- TikTok 3 -->
+        <article class="card reveal" data-reveal data-delay="120">
+          <div class="card-top">
+            <span class="chip">TikTok</span>
+            <span class="chip alt">video</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="tiktok-embed"
+              cite="https://www.tiktok.com/@sabluvsanime/video/7603832814932331807"
+              data-video-id="7603832814932331807"
+              style="max-width: 605px;min-width: 325px;">
+              <section></section>
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Featured TikTok</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.tiktok.com/@sabluvsanime/video/7603832814932331807">open</a>
+            </div>
+            <p class="muted">Story beats + payoff.</p>
+          </div>
+        </article>
+
+        <!-- IG 1 -->
+        <article class="card reveal" data-reveal data-delay="40">
+          <div class="card-top">
+            <span class="chip">Instagram</span>
+            <span class="chip alt">post</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/p/DMf7D-1Jxw5/"
+              data-instgrm-version="14"
+              style="background:#fff; border:0; margin:0; padding:0; width:100%;">
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Instagram Feature</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.instagram.com/p/DMf7D-1Jxw5/">open</a>
+            </div>
+            <p class="muted">Creative direction + presentation.</p>
+          </div>
+        </article>
+
+        <!-- IG 2 -->
+        <article class="card reveal" data-reveal data-delay="80">
+          <div class="card-top">
+            <span class="chip">Instagram</span>
+            <span class="chip alt">post</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/p/DMdyCOOz42z/"
+              data-instgrm-version="14"
+              style="background:#fff; border:0; margin:0; padding:0; width:100%;">
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Instagram Feature</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.instagram.com/p/DMdyCOOz42z/">open</a>
+            </div>
+            <p class="muted">Brand voice + polish.</p>
+          </div>
+        </article>
+
+        <!-- IG 3 -->
+        <article class="card reveal" data-reveal data-delay="120">
+          <div class="card-top">
+            <span class="chip">Instagram</span>
+            <span class="chip alt">post</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/p/DUYwJV8Ev-F/"
+              data-instgrm-version="14"
+              style="background:#fff; border:0; margin:0; padding:0; width:100%;">
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Instagram Feature</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.instagram.com/p/DUYwJV8Ev-F/">open</a>
+            </div>
+            <p class="muted">Campaign-y execution.</p>
+          </div>
+        </article>
+
+        <!-- IG 4 (bonus) -->
+        <article class="card reveal" data-reveal>
+          <div class="card-top">
+            <span class="chip">Instagram</span>
+            <span class="chip alt">post</span>
+          </div>
+
+          <div class="embed">
+            <blockquote class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/p/DTN0Ry1ij4O/"
+              data-instgrm-version="14"
+              style="background:#fff; border:0; margin:0; padding:0; width:100%;">
+            </blockquote>
+          </div>
+
+          <div class="card-foot">
+            <div class="title-row">
+              <h3>Instagram Feature</h3>
+              <a class="mini-link" target="_blank" rel="noreferrer" href="https://www.instagram.com/p/DTN0Ry1ij4O/">open</a>
+            </div>
+            <p class="muted">Content that feels native.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="results" class="section">
+      <div class="section-head reveal" data-reveal>
+        <h2>Results + strengths</h2>
+        <p class="muted">Recruiter-scan section. We’ll tighten these once you paste your exact metrics.</p>
+      </div>
+
+      <div class="results">
+        <div class="metric reveal" data-reveal>
+          <div class="metric-big">0 → 23K</div>
+          <div class="metric-label">Instagram growth in ~2 months (freelance)</div>
+        </div>
+
+        <div class="metric reveal" data-reveal data-delay="60">
+          <div class="metric-big">↑ Engagement</div>
+          <div class="metric-label">Short-form + platform-native storytelling</div>
+        </div>
+
+        <div class="metric reveal" data-reveal data-delay="120">
+          <div class="metric-big">Culture-first</div>
+          <div class="metric-label">Taste + trends + clarity (not “influencer slop”)</div>
+        </div>
+
+        <div class="callout reveal" data-reveal>
+          <h3>How I work</h3>
+          <ul class="bullets">
+            <li><b>Strategy:</b> audience + insight → content buckets → series formats</li>
+            <li><b>Execution:</b> hooks, pacing, captions, CTAs, editing</li>
+            <li><b>Optimization:</b> iterate from retention + saves + shares</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section">
+      <div class="section-head reveal" data-reveal>
+        <h2>About</h2>
+        <p class="muted">Short, human, and clear.</p>
+      </div>
+
+      <div class="about">
+        <div class="about-card reveal" data-reveal>
+          <h3>Hi, I’m Sabrina.</h3>
+          <p>
+            I’m a Social Media & Digital Content Strategist who blends creative taste with structure.
+            I love editorial visuals, clean storytelling, and content that feels native — while still being measurable and intentional.
+          </p>
+          <p class="muted">
+            If you’re hiring for social roles that need both creative direction and execution, you’ll probably like how I think.
+          </p>
+
+          <div class="tool-row">
+            <span class="tool">CapCut / Premiere</span>
+            <span class="tool">IG + TikTok</span>
+            <span class="tool">Content calendars</span>
+            <span class="tool">Analytics</span>
+            <span class="tool">UGC + creator style</span>
+          </div>
+        </div>
+
+        <div class="about-card reveal" data-reveal data-delay="80">
+          <h3>What I’m looking for</h3>
+          <p>
+            Recruiter note: I’m targeting social/media roles where social is treated as a growth channel —
+            not an afterthought — and where creative is built for the platform first.
+          </p>
+
+          <div class="mini-collage" aria-label="Collage placeholders">
+            <div class="tile">Drop more assets here later</div>
+            <div class="tile pink">Campaign screenshots</div>
+            <div class="tile">Analytics snippets</div>
+            <div class="tile pink">Reel covers</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section contact">
+      <div class="contact-card reveal" data-reveal>
+        <h2>Let’s work together</h2>
+        <p class="muted">Email is fastest. LinkedIn is also perfect.</p>
+
+        <div class="contact-actions">
+          <a class="btn" href="mailto:hellosabrinak@gmail.com">hellosabrinak@gmail.com</a>
+          <a class="btn ghost" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/sablatz">LinkedIn: sablatz</a>
+        </div>
+
+        <p class="tiny muted">
+          Built with GitHub + Vercel. Designed to feel like you: collage/editorial, but recruiter-readable.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <a href="#top" class="to-top">Back to top ↑</a>
+    <div class="muted">© <span id="year"></span> Sabrina Latz</div>
+  </footer>
+
+  <!-- Embed scripts -->
+  <script async src="https://www.tiktok.com/embed.js"></script>
+  <script async src="https://www.instagram.com/embed.js"></script>
+
+  <script src="./script.js"></script>
+</body>
+</html>
